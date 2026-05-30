@@ -1,0 +1,4 @@
+QUARTUS_VERSION = "20.1"
+DATE = "00:00:00  January 01, 2025"
+
+PROJECT_REVISION = "seven_seg_bcd"
